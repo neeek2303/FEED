@@ -27,17 +27,10 @@ For more details, please visit the [project page](https://neeek2303.github.io/EM
 
 ## Important Notes:
 
-1. **License**:  
-   The dataset is made available under the Creative Commons BY-NC-SA 4.0 license. You are free to use, redistribute, and adapt it for non-commercial purposes, provided that you:
-   - (a) Give appropriate credit by citing our paper.
-   - (b) Indicate any changes that you’ve made.
-   - (c) Distribute any derivative works under the same license.
-
-2. **Dataset Sharing**:  
+1. **Dataset Sharing**:  
    If you have the capacity to store and share the dataset, please consider uploading it to cloud storage and sharing the link here by adding it to an Issue titled "Dataset Link Resharing." The dataset may become unavailable on Yandex Disk and especially Google Drive due to storage limitations on the author’s account.
 
-3. **Dataset Composition** (as of September 1, 2024):  
+2. **Dataset Composition** (as of September 1, 2024):  
    The dataset currently consists of 17 identities. Of the 23 identities mentioned in the paper:
-   - 2 identities are pending final approval for publication.
    - 1 identity has technical issues with the video, which might be resolved in the future.
-   - 3 identities have withdrawn their initial consent for publication.
+   - 5 identities have withdrawn their initial consent for publication.
